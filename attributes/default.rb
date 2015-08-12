@@ -38,6 +38,7 @@ when '5.6.2' then '57737a00207642e7be4ceea7b702e30e1caccaaa51e08699c2c9ae588e4c8
 when '5.7.2' then 'b378500ea61803333fc27b0a42cfbdfbce5dccc75cead0b464dbc4e5e0bddb17'
 when '5.8.1' then 'bb691d22273ceaa999eb435dfb4e8d697c3c803505218845bf5785ec2785cbd8'
 when '5.9.1' then '0b7e84214862c4afd7dbc839c2c4045d28e554c383d93660b6d2e0bce42898d3'
+when '5.9.3' then '73ca8a4aa88faaed5e0affd7c300c483c2480fd9e6809433fb592c3e1d22831b'
 end
 
 default[:bamboo][:database][:external]            = false
